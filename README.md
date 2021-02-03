@@ -26,7 +26,7 @@ Este directorio contiene todo el código de base que se entrega para el funciona
     |--Algorithms: Implementación de los algoritmos vistos en el curso (por ejemplo algoritmos de ordenamiento)
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
-    Nombres: Alejandro José Segura Torres - Correro: a.segurat@uniandes.edu.co - Codigo: 202021673
+    Nombres: Alejandro José Segura Torres - Correro: a.segurat@uniandes.edu.co - Codigo: 202026468
              Felipe Nuñez Pinillos - Correro: f.nunez@uniandes.edu.co - Codigo: 202021673
 
 
